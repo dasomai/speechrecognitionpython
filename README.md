@@ -19,3 +19,7 @@ Some useful link
 
 
 [zalo AI](https://zalo.ai/technologies/speech-processing)
+
+
+[whisper from open ai](https://github.com/openai/whisper)
+
