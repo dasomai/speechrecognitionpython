@@ -16,3 +16,6 @@ https://picovoice.ai/
 Some useful link 
 
 [amazon transcript](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-speech-text-languages-swedish-vietnamese/?fbclid=IwAR287U0Azrp-WNPzJ3q_FVD5qBpX6LHnj-6nhV6oF4DJRwqTrQl-SOlqweM)
+
+
+[zalo AI ] (https://zalo.ai/technologies/speech-processing)
